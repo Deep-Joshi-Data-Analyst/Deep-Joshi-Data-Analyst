@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deep Chandra Joshi</h1>
-<h3 align="center">Aspiring Data Analyst | MIS Executive | Excel & SQL Learner</h3>
+<h3 align="center">Aspiring Data Analyst | MIS Executive | Python & SQL Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;MIS+Executive+Learner;Excel+%7C+SQL+%7C+Power+BI;Building+Projects+Step+By+Step;Learning+Data+Analytics+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;MIS+Executive+Learner;Excel+%7C+SQL+%7C+Power+BI;Python+%7C+SQL+%7C+Building+Projects+Step+By+Step;Learning+Data+Analytics+Everyday" />
 </p>
 
 ---
@@ -17,6 +17,7 @@
   - Advanced Excel
   - SQL
   - Power BI
+  - Python
 - 🎯 Goal: Become a **Data Analyst**
 - 📚 Learning by building real-world projects
 - ⚡ Interested in dashboards, reporting, and business insights
